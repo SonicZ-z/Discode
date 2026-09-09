@@ -1,0 +1,2 @@
+# This directory will contain released APK files
+# To build: Use Android Studio or run ./gradlew assembleRelease
