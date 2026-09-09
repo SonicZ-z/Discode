@@ -1,0 +1,37 @@
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+
+# Local history
+*.localhistory
+
+# Keystore files
+*.keystore
+*.jks
+keystore.properties
+
+# Signing files
+*.pem
+*.pk8
+
+# Build outputs
+*.apk
+*.aab
+outputs/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
